@@ -1,0 +1,5 @@
+#+TITLE: Emacs Notes
+#+author: Matt Menzenski
+#+email: matt.menzenski@gmail.com
+
++ Vim keybindings =:w=, =:q=, =:wqa= etc still work to save + close.
