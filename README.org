@@ -2,5 +2,11 @@
 #+author: Matt Menzenski
 #+email: matt.menzenski@gmail.com
 
+* Basics
+
 + Vim keybindings =:w=, =:q=, =:wqa= etc still work to save + close.
 + =SPC w v= / =SPC w s= to split window vertically / horizontally.
+
+* Org
+
++ =SPC := is =M-x= — that opens context menu where you can type in a function name if you don't know the keybinding (e.g., =org-babel-tangle=)
