@@ -3,3 +3,4 @@
 #+email: matt.menzenski@gmail.com
 
 + Vim keybindings =:w=, =:q=, =:wqa= etc still work to save + close.
++ =SPC w v= / =SPC w s= to split window vertically / horizontally.
