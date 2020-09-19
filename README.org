@@ -10,3 +10,8 @@
 * Org
 
 + =SPC := is =M-x= — that opens context menu where you can type in a function name if you don't know the keybinding (e.g., =org-babel-tangle=)
++ =SPC X= to =org-capture=
+
+* TODOs
+
+[ ] Update styling so that selected text is more visually distinct
